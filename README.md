@@ -9,7 +9,7 @@ Like unix "ls" command, but also display additional information for mp3,ogg file
 Output is easily parseable. o
 
 Fields are like so:
-size/minutes/seconds/bitrate/filename 
+filetype/size/minutes/seconds/bitrate/bitrateunit/filename 
 
 Example:
 ```
