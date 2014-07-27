@@ -3,7 +3,9 @@ lsaudio
 
 lsaudio
 
-Like unix "ls" command, but also display additional information for audio files, like duration, bitrate, size.
+This was written in 1999 but is uploaded for reference.
+
+Like unix "ls" command, but also display additional information for mp3,ogg files, like duration, bitrate, size.
 Output is easily parseable. o
 
 Fields are like so:
@@ -31,4 +33,7 @@ fmp3/06062208/05/26/148/VBR/14 - Verdi - Lux aeterna.mp3
 fmp3/14065792/12/08/154/VBR/15 - Verdi - Libera me.mp3
 
 ```
+
+
+Uses dxhead.c from xing
 
