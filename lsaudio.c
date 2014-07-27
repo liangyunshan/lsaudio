@@ -14,7 +14,7 @@
 int my_strcmp(char*,char*);
 int oggnfo(MPEG_HEAD * mh, off_t size, int fd);
 
-char version[]="lsaudio: sivann 2004-2008, version 1.2";
+char version[]="lsaudio: sivann 1999-2008, version 1.2";
 
 void qsort1 (register int l, register int r, char *a[])
 {
