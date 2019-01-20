@@ -4,6 +4,7 @@ lsaudio
 lsaudio
 
 This was written in 1999 but is uploaded for reference.
+获取MP3时长等信息
 
 Like unix "ls" command, but also display additional information for mp3,ogg files, like duration, bitrate, size.
 Output is easily parseable. o
